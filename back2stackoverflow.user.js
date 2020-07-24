@@ -1,14 +1,13 @@
 // ==UserScript==
 // @name         Back2stackoverflow
-// @version      0.1.40
+// @version      0.1.50
 // @description  Redirect to stackoverflow.com from machine-translated sites
-// @namespace    taraflex
-// @author       taraflex.red@gmail.com
+// @namespace    YDKK
 // @run-at       document-end
-// @downloadURL  https://raw.githubusercontent.com/Taraflex/Back2stackoverflow/master/back2stackoverflow.user.js
-// @updateURL    https://raw.githubusercontent.com/Taraflex/Back2stackoverflow/master/back2stackoverflow.user.js
-// @homepageURL  https://github.com/Taraflex/Back2stackoverflow
-// @supportURL   https://github.com/Taraflex/Back2stackoverflow/issues
+// @downloadURL  https://raw.githubusercontent.com/YDKK/Back2stackoverflow/master/back2stackoverflow.user.js
+// @updateURL    https://raw.githubusercontent.com/YDKK/Back2stackoverflow/master/back2stackoverflow.user.js
+// @homepageURL  https://github.com/YDKK/Back2stackoverflow
+// @supportURL   https://github.com/YDKK/Back2stackoverflow/issues
 // @grant        GM_xmlhttpRequest
 // @noframes
 // @match        https://stackoverflow.com/search?back2stackoverflow=*
